@@ -1,0 +1,2 @@
+# galeri_otomasyonu_dokumantasyon
+Galeri Otomasyonu için Dökümantasyon
